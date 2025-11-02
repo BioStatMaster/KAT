@@ -1,0 +1,35 @@
+=== varComp fit summary ===
+Variance component model fit 
+
+Call:
+varComp(fixed = plant ~ group, data = df, varcov = Klist_2, normalizeTrace = TRUE)
+
+Individual fixef effect estimates:
+              Estimate Std. Error     Lower     Upper    t value Scale       Df     Pr(>|t|)
+(Intercept)  466.55927   60.38780  345.2622 587.85634  7.7260513     1 49.92358 4.464235e-10
+grouple      -64.38308   60.30678 -184.2148  55.44868 -1.0675928     1 88.81304 2.885976e-01
+groupmp     -149.82333   87.63619 -326.1073  26.46061 -1.7096056     1 47.17585 9.390978e-02
+grouppx      -89.40234   94.85686 -282.9726 104.16795 -0.9424973     1 30.57734 3.533256e-01
+groupsl       14.17383   82.48195 -155.9977 184.34536  0.1718416     1 24.16865 8.649928e-01
+
+Overall fixed effect contrast:
+         F value     Scale numDF    denDF       Pr(>F)
+Overall 696.4354 0.9675166     5 44.82308 1.324748e-41
+
+
+Variance component estimates: 
+         M1          M2          M3          M4          M5          M6          M7          M8          M9         M10 
+ 26048.1449      0.0000      0.0000 826048.8630      0.0000      0.0000      0.0000    337.4712      0.0000      0.0000 
+      error 
+  4348.9639 
+
+Number of observations: 101
+
+--- variance components (random only) ---
+         M1          M2          M3          M4          M5          M6          M7          M8          M9         M10 
+ 26048.1449      0.0000      0.0000 826048.8630      0.0000      0.0000      0.0000    337.4712      0.0000      0.0000 
+      error 
+  4348.9639 
+
+--- sigma^2 (residual) ---
+[1] 4348.964
