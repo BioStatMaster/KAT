@@ -1,0 +1,62 @@
+$NPC_superclass
+x_chr
+                      Alkaloids        Amino acids and Peptides                   Carbohydrates 
+                            347                             340                             139 
+                    Fatty acids Shikimates and Phenylpropanoids                     Polyketides 
+                            116                              92                              63 
+                     Terpenoids 
+                             60 
+
+$NPC_class
+x_chr
+                  Small peptides            Amino acid glycosides                      Saccharides 
+                             195                               95                               74 
+                   Oligopeptides             Tryptophan alkaloids              Histidine alkaloids 
+                              73                               67                               66 
+      Fatty Acids and Conjugates              Ornithine alkaloids                      Nucleosides 
+                              53                               52                               46 
+Pseudoalkaloids (transamidation)                       Flavonoids               Tyrosine alkaloids 
+                              41                               35                               31 
+                  Monoterpenoids         Phenylpropanoids (C6-C3)                     Spingolipids 
+                              30                               30                               20 
+                        Steroids                       Macrolides  Aminosugars and aminoglycosides 
+                              20                               18                               17 
+          Phenolic acids (C6-C1)                     Diterpenoids 
+                              16                               14 
+
+$ClassyFire_superclass
+x_chr
+                    Aminoacids            Imidazole alkaloids                 Glucosinolates 
+                           154                             92                             84 
+           Carboline alkaloids                Monosaccharides                     Polyamines 
+                            64                             44                             37 
+       Halogenated fatty acids Cinnamic acids and derivatives                Cyclic peptides 
+                            33                             31                             28 
+                 Disaccharides               Purine alkaloids                      Flavonols 
+                            25                             24                             23 
+                 Depsipeptides                     Dipeptides        Menthane monoterpenoids 
+                            21                             21                             21 
+            Purine nucleosides                    Aminosugars         Open-chain polyketides 
+                            18                             17                             17 
+         Simple phenolic acids             Pyridine alkaloids 
+                            17                             16 
+
+$ClassyFire_class
+x_chr
+            Organic acids and derivatives                  Organic oxygen compounds 
+                                      471                                       215 
+                               Benzenoids           Lipids and lipid-like molecules 
+                                      135                                       105 
+             Organoheterocyclic compounds          Phenylpropanoids and polyketides 
+                                       65                                        58 
+                  Organohalogen compounds                    Organosulfur compounds 
+                                       42                                        18 
+               Organic nitrogen compounds             Organic 1,3-dipolar compounds 
+                                       17                                        10 
+  Nucleosides, nucleotides, and analogues Lignans, neolignans and related compounds 
+                                        8                                         6 
+               Organophosphorus compounds                 Alkaloids and derivatives 
+                                        3                                         2 
+                 Organometallic compounds 
+                                        2 
+

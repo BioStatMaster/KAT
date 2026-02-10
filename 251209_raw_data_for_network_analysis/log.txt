@@ -1,0 +1,76 @@
+Analysis Log
+[2025-12-12 10:30:18.655149] Merged dataset 'wt_all_with_hormone' created.
+[2025-12-12 10:30:38.03028] Starting parallel processing on 47 cores.
+[2025-12-12 10:32:19.768452] [wt_all_with_hormone] Start Fitting (n=101, p=6142)
+[2025-12-12 10:32:19.848807] [wt_all] Start Fitting (n=101, p=6139)
+[2025-12-12 10:32:27.954468] [myc] Start Fitting (n=103, p=9702)
+[2025-12-12 10:32:28.209409] [npr] Start Fitting (n=102, p=9940)
+[2025-12-12 10:32:33.065947] [bak15] Start Fitting (n=99, p=11357)
+[2025-12-12 10:32:33.307021] [sobir] Start Fitting (n=110, p=11089)
+[2025-12-12 10:37:57.648342]  -> [wt_all] New Best! Lambda=2.0000, EBIC=887862.13, Edges=0
+[2025-12-12 10:37:58.452549]  -> [wt_all_with_hormone] New Best! Lambda=2.0000, EBIC=888296.01, Edges=0
+[2025-12-12 10:43:39.968299]  -> [wt_all] New Best! Lambda=1.8974, EBIC=873600.02, Edges=0
+[2025-12-12 10:43:41.015309]  -> [wt_all_with_hormone] New Best! Lambda=1.8974, EBIC=874026.93, Edges=0
+[2025-12-12 10:49:23.105048]  -> [wt_all_with_hormone] New Best! Lambda=1.7947, EBIC=859516.96, Edges=0
+[2025-12-12 10:49:30.369498]  -> [wt_all] New Best! Lambda=1.7947, EBIC=859097.14, Edges=0
+[2025-12-12 10:55:05.235991]  -> [wt_all_with_hormone] New Best! Lambda=1.6921, EBIC=844769.34, Edges=0
+[2025-12-12 10:55:08.012306]  -> [myc] New Best! Lambda=2.0000, EBIC=1430951.85, Edges=0
+[2025-12-12 10:55:14.1293]  -> [wt_all] New Best! Lambda=1.6921, EBIC=844356.72, Edges=0
+[2025-12-12 10:56:42.597135]  -> [npr] New Best! Lambda=2.0000, EBIC=1451821.03, Edges=0
+[2025-12-12 11:00:41.102183]  -> [wt_all_with_hormone] New Best! Lambda=1.5895, EBIC=829790.24, Edges=0
+[2025-12-12 11:00:49.164875]  -> [wt_all] New Best! Lambda=1.5895, EBIC=829384.94, Edges=0
+[2025-12-12 11:05:39.538957]  -> [sobir] New Best! Lambda=2.0000, EBIC=1746672.95, Edges=0
+[2025-12-12 11:06:18.310075]  -> [wt_all_with_hormone] New Best! Lambda=1.4868, EBIC=814589.74, Edges=0
+[2025-12-12 11:06:27.755071]  -> [wt_all] New Best! Lambda=1.4868, EBIC=814191.86, Edges=0
+[2025-12-12 11:08:07.859561]  -> [bak15] New Best! Lambda=2.0000, EBIC=1609998.04, Edges=0
+[2025-12-12 11:11:48.988499]  -> [wt_all_with_hormone] New Best! Lambda=1.3842, EBIC=799182.94, Edges=0
+[2025-12-12 11:12:05.678704]  -> [wt_all] New Best! Lambda=1.3842, EBIC=798792.59, Edges=0
+[2025-12-12 11:17:17.657402]  -> [myc] New Best! Lambda=1.8974, EBIC=1407965.86, Edges=0
+[2025-12-12 11:17:24.182201]  -> [wt_all_with_hormone] New Best! Lambda=1.2816, EBIC=783591.63, Edges=0
+[2025-12-12 11:17:46.36151]  -> [wt_all] New Best! Lambda=1.2816, EBIC=783208.89, Edges=0
+[2025-12-12 11:20:30.742756]  -> [npr] New Best! Lambda=1.8974, EBIC=1428499.80, Edges=0
+[2025-12-12 11:22:58.321698]  -> [wt_all_with_hormone] New Best! Lambda=1.1789, EBIC=767846.36, Edges=0
+[2025-12-12 11:23:21.612913]  -> [wt_all] New Best! Lambda=1.1789, EBIC=767471.32, Edges=0
+[2025-12-12 11:28:33.835851]  -> [wt_all_with_hormone] New Best! Lambda=1.0763, EBIC=751989.35, Edges=0
+[2025-12-12 11:28:59.062115]  -> [wt_all] New Best! Lambda=1.0763, EBIC=751622.05, Edges=0
+[2025-12-12 11:38:12.301381]  -> [sobir] New Best! Lambda=1.8974, EBIC=1718615.39, Edges=0
+[2025-12-12 11:39:19.357417]  -> [myc] New Best! Lambda=1.7947, EBIC=1384591.82, Edges=0
+[2025-12-12 11:43:01.746883]  -> [bak15] New Best! Lambda=1.8974, EBIC=1584135.95, Edges=0
+[2025-12-12 11:44:10.248549]  -> [npr] New Best! Lambda=1.7947, EBIC=1404784.87, Edges=0
+[2025-12-12 12:01:22.266961]  -> [myc] New Best! Lambda=1.6921, EBIC=1360834.94, Edges=0
+[2025-12-12 12:07:47.723373]  -> [npr] New Best! Lambda=1.6921, EBIC=1380681.52, Edges=0
+[2025-12-12 12:10:39.483527]  -> [sobir] New Best! Lambda=1.7947, EBIC=1690084.17, Edges=0
+[2025-12-12 12:17:58.647479]  -> [bak15] New Best! Lambda=1.7947, EBIC=1557837.26, Edges=0
+[2025-12-12 12:23:15.96331]  -> [myc] New Best! Lambda=1.5895, EBIC=1336705.19, Edges=0
+[2025-12-12 12:31:22.187663]  -> [npr] New Best! Lambda=1.5895, EBIC=1356199.86, Edges=0
+[2025-12-12 12:43:03.63567]  -> [sobir] New Best! Lambda=1.6921, EBIC=1661085.64, Edges=0
+[2025-12-12 12:45:32.334621]  -> [myc] New Best! Lambda=1.4868, EBIC=1312218.76, Edges=0
+[2025-12-12 12:52:44.886064]  -> [bak15] New Best! Lambda=1.6921, EBIC=1531107.83, Edges=0
+[2025-12-12 12:54:59.535128]  -> [npr] New Best! Lambda=1.4868, EBIC=1331356.32, Edges=0
+[2025-12-12 13:07:26.355831]  -> [myc] New Best! Lambda=1.3842, EBIC=1287400.03, Edges=0
+[2025-12-12 13:15:24.158614]  -> [sobir] New Best! Lambda=1.5895, EBIC=1631631.97, Edges=0
+[2025-12-12 13:18:36.576218]  -> [npr] New Best! Lambda=1.3842, EBIC=1306175.62, Edges=0
+[2025-12-12 13:27:33.210645]  -> [bak15] New Best! Lambda=1.5895, EBIC=1503958.87, Edges=0
+[2025-12-12 13:29:17.710669]  -> [myc] New Best! Lambda=1.2816, EBIC=1262284.05, Edges=0
+[2025-12-12 13:42:13.132599]  -> [npr] New Best! Lambda=1.2816, EBIC=1280693.36, Edges=0
+[2025-12-12 13:47:46.033447]  -> [sobir] New Best! Lambda=1.4868, EBIC=1601742.94, Edges=0
+[2025-12-12 13:51:12.405685]  -> [myc] New Best! Lambda=1.1789, EBIC=1236920.08, Edges=0
+[2025-12-12 14:02:23.453899]  -> [bak15] New Best! Lambda=1.4868, EBIC=1476408.61, Edges=0
+[2025-12-12 14:05:58.203576]  -> [npr] New Best! Lambda=1.1789, EBIC=1254959.47, Edges=0
+[2025-12-12 14:13:20.653235]  -> [myc] New Best! Lambda=1.0763, EBIC=1211376.10, Edges=0
+[2025-12-12 14:20:13.592819]  -> [sobir] New Best! Lambda=1.3842, EBIC=1571448.26, Edges=0
+[2025-12-12 14:29:43.019918]  -> [npr] New Best! Lambda=1.0763, EBIC=1229042.95, Edges=0
+[2025-12-12 14:37:05.039483]  -> [bak15] New Best! Lambda=1.3842, EBIC=1448484.46, Edges=0
+[2025-12-12 14:52:28.779337]  -> [sobir] New Best! Lambda=1.2816, EBIC=1540790.78, Edges=0
+[2025-12-12 15:11:54.021055]  -> [bak15] New Best! Lambda=1.2816, EBIC=1420225.88, Edges=0
+[2025-12-12 15:18:46.65508] [wt_all] Finished. Best Lambda: 1.0763, EBIC: 751622.05
+[2025-12-12 15:19:39.441383] [wt_all_with_hormone] Finished. Best Lambda: 1.0763, EBIC: 751989.35
+[2025-12-12 15:24:40.231589]  -> [sobir] New Best! Lambda=1.1789, EBIC=1509830.57, Edges=0
+[2025-12-12 15:45:20.289759]  -> [bak15] New Best! Lambda=1.1789, EBIC=1391688.27, Edges=0
+[2025-12-12 15:55:21.433913]  -> [sobir] New Best! Lambda=1.0763, EBIC=1478650.63, Edges=0
+[2025-12-12 16:17:38.1708]  -> [bak15] New Best! Lambda=1.0763, EBIC=1362948.12, Edges=0
+[2025-12-13 02:06:18.967448] [myc] Finished. Best Lambda: 1.0763, EBIC: 1211376.10
+[2025-12-13 03:24:50.338452] [npr] Finished. Best Lambda: 1.0763, EBIC: 1229042.95
+[2025-12-13 10:22:13.601391] [bak15] Finished. Best Lambda: 1.0763, EBIC: 1362948.12
+[2025-12-13 11:03:37.097037] [sobir] Finished. Best Lambda: 1.0763, EBIC: 1478650.63
+[2025-12-13 11:03:41.236031] All parallel jobs finished.
